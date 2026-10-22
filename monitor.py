@@ -7,7 +7,7 @@ import urllib.request
 from pathlib import Path
 from datetime import datetime, timezone
 
-BYBIT_URL = "https://api.bybit.com/v5/market/tickers?category=spot"
+BYBIT_URL = "https://api.bybit.kz/v5/market/tickers?category=spot"
 STATE_FILE = Path("state.json")
 
 DEFAULT_RANGES = {
