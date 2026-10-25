@@ -1,11 +1,11 @@
 {
   "symbols": {
     "AVAXUSDT": {
-      "band": -3,
+      "band": -4,
       "edge": "LOW"
     },
     "ETHUSDT": {
-      "band": 9,
+      "band": 8,
       "edge": "IN"
     },
     "SOLUSDT": {
@@ -13,9 +13,9 @@
       "edge": "IN"
     },
     "STXUSDT": {
-      "band": -11,
+      "band": -12,
       "edge": "LOW"
     }
   },
-  "last_report": 1792871290.0172486
+  "last_report": 1792918902.3253489
 }
