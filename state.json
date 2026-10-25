@@ -13,9 +13,9 @@
       "edge": "IN"
     },
     "STXUSDT": {
-      "band": -12,
+      "band": -11,
       "edge": "LOW"
     }
   },
-  "last_report": 1792918902.3253489
+  "last_report": 1792924574.6017027
 }
