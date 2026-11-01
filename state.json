@@ -5,17 +5,17 @@
       "edge": "LOW"
     },
     "ETHUSDT": {
-      "band": 5,
+      "band": 6,
       "edge": "IN"
     },
     "SOLUSDT": {
-      "band": 3,
+      "band": 2,
       "edge": "IN"
     },
     "STXUSDT": {
-      "band": -6,
+      "band": -7,
       "edge": "LOW"
     }
   },
-  "last_report": 1793495714.2172883
+  "last_report": 1793501465.410768
 }
